@@ -1,0 +1,34 @@
+pending :
+ 
+# terms & condition 
+# about us
+# payment (razor pay) 
+# icon and name
+
+completed :
+
+1. login
+2. sign up
+3. home
+4. bottom nav
+5. add to cart
+6. display cart
+7. delete from cart
+8. update product count
+9. cart total price
+10. details page
+11. search
+12. forgot password
+13. otp
+14. profile page
+15. edit profile
+16. onboarding page
+17. fetch current location
+18. check network 
+19. dialog boxes (success, error) 
+20. cache image
+21. arrange cart provider
+22. details add to cart
+23. font family 
+24. splash screen 
+25. animations

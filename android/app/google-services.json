@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66381096671",
+    "project_id": "fir-ui-fa7dc",
+    "storage_bucket": "fir-ui-fa7dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66381096671:android:487852adda93a5976beb6a",
+        "android_client_info": {
+          "package_name": "com.example.icream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66381096671-8mab6a8j2qr9kbccj0s34ii5855grmsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHSuZBTqow0D5Y4crxnpRMqar_eQCaafw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66381096671-8mab6a8j2qr9kbccj0s34ii5855grmsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
